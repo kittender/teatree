@@ -4,10 +4,6 @@ Organize your code along **a logical architecture**.
 
 Inspired by [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/).
 
-##### __φ(．．)
-
-* @todo : add layer management infos
-
 ### Vendor
 **00_vendor** | For libraries and external sources
 
