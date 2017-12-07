@@ -14,6 +14,7 @@ html {
 *::after {
   box-sizing: inherit;
 }
+```
 
 ## Rythmic cohesion
 
@@ -33,6 +34,7 @@ Implemention code from the article above :
 .margins-off > * {
 	margin-top: 0;
 }
+```
 
 ## Scalable units
 * [Comprehensive guide to REM and EM units](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
@@ -86,3 +88,4 @@ Implementation from [Solved by Flexbox](https://philipwalton.github.io/solved-by
 .Media-body {
   flex: 1;
 }
+```
