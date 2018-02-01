@@ -4,6 +4,8 @@ Organize your code along **a logical architecture**.
 
 Inspired by [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/).
 
+<img src="teatree.svg" width="256"/>
+
 ### Vendor
 **00_vendor** | For libraries and external sources
 
